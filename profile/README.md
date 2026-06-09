@@ -11,7 +11,7 @@ and partly as a working portfolio of how I think about systems.
 
 Everything here is released under the **Apache License 2.0**.
 
-## Projects
+## Core Projects
 
 ### [ts-store](https://github.com/trv-enterprises/ts-store)
 A lightweight, embedded time-series store with a **predictable storage
