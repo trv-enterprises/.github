@@ -52,4 +52,4 @@ me ship real, well-tested, well-documented systems on my own.
 ## Get in touch
 
 - 📫 [tom.viviano@trv-enterprises.com](mailto:tom.viviano@trv-enterprises.com)
-- 💬 Questions about either project? Open an issue on the repo.
+- 💬 Questions about either project? Open an issue on the repo. (ISSUE REPO SHOULD BE OPEN WITHIN THE NEXT COUPLD OF DAYS)
