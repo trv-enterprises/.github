@@ -18,7 +18,7 @@ A full-stack **dashboard platform** for building, managing, and viewing
 real-time data visualizations — with an AI-assisted component builder.
 
 - **Design / View / Manage** modes — build connections, charts, and layouts; view with live auto-refresh; administer the system 
-- **8+ datasource types** behind one unified adapter pattern: SQL, REST, CSV, WebSocket, MQTT, ts-store, Prometheus, and EdgeLake
+- **10 datasource types** behind one unified adapter pattern: SQL, REST, CSV, WebSocket, MQTT, ts-store, Prometheus, and EdgeLake
 - **AI Chart Builder** — natural language to ECharts, streamed live over
   SSE, with an embedded MCP server for AI-driven chart and dashboard generation
 - **Chart code stored in the database** and evaluated at runtime — no build-and-deploy cycle for new components
