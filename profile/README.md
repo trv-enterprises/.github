@@ -13,6 +13,17 @@ Everything here is released under the **Apache License 2.0**.
 
 ## Core Projects
 
+### [trv-outpost](https://github.com/trv-enterprises/trv-outpost)
+A full-stack **dashboard platform** for building, managing, and viewing
+real-time data visualizations — with an AI-assisted component builder.
+
+- **Design / View / Manage** modes — build connections, charts, and layouts; view with live auto-refresh; administer the system 
+- **8+ datasource types** behind one unified adapter pattern: SQL, REST, CSV, WebSocket, MQTT, ts-store, Prometheus, and EdgeLake
+- **AI Chart Builder** — natural language to ECharts, streamed live over
+  SSE, with an embedded MCP server for AI-driven chart and dashboard generation
+- **Chart code stored in the database** and evaluated at runtime — no build-and-deploy cycle for new components
+- Go + Gin backend, React 18 + Carbon Design System frontend, MongoDB for storage.
+
 ### [ts-store](https://github.com/trv-enterprises/ts-store)
 A lightweight, embedded time-series store with a **predictable storage
 footprint** — built for the edge. You set the size at creation and it never
@@ -29,16 +40,6 @@ No retention policies to tune, no unbounded disk usage.
   aggregation (avg/sum/min/max), a rule-based alerting engine, cursor
   persistence, and auto-reconnect
 
-### [trv-outpost](https://github.com/trv-enterprises/trv-outpost)
-A full-stack **dashboard platform** for building, managing, and viewing
-real-time data visualizations — with an AI-assisted component builder.
-
-- **Design / View / Manage** modes — build connections, charts, and layouts; view with live auto-refresh; administer the system 
-- **8+ datasource types** behind one unified adapter pattern: SQL, REST, CSV, WebSocket, MQTT, ts-store, Prometheus, and EdgeLake
-- **AI Chart Builder** — natural language to ECharts, streamed live over
-  SSE, with an embedded MCP server for AI-driven chart and dashboard generation
-- **Chart code stored in the database** and evaluated at runtime — no build-and-deploy cycle for new components
-- Go + Gin backend, React 18 + Carbon Design System frontend, MongoDB for storage.
 
 ## Built with Claude Code
 
