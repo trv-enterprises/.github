@@ -3,7 +3,7 @@
 Hi — I'm **Tom Viviano**. I've been designing and building software for a long time,
 from FORTRAN on punch cards and a custom ISAM file system in the
 70s through to my last role as Chief Designer and Co-Chief Architect on
-**IBM Hybrid Cloud Mesh**, IBM's cloud network management product.
+**IBM Hybrid Cloud Mesh**, IBM's application-centric multicloud networking platform.
 
 I retired from IBM in 2024, took a year away, and came back because I missed building things. I learned about Claude Code and MCP servers at IBM's TechXchange in 2025 and have been vibing ever since. This organization is where I publish the open-source
 projects I build — partly as a contribution to the communities I draw from,
