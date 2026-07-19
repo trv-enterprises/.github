@@ -1,7 +1,7 @@
 # TRV Enterprises
 
-Hi — I'm **Tom Viviano**. I've been designing and building software for over
-50 years, from FORTRAN on punch cards and a custom ISAM file system in the
+Hi — I'm **Tom Viviano**. I've been designing and building software for a long time,
+from FORTRAN on punch cards and a custom ISAM file system in the
 70s through to my last role as Chief Designer and Co-Chief Architect on
 **IBM Hybrid Cloud Mesh**, IBM's cloud network management product.
 
